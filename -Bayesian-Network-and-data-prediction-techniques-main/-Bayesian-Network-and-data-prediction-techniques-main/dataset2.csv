@@ -1,0 +1,304 @@
+Age,Sex,BMI,DM,HTN,Current Smoker,Obesity,DLP,BP,WPE,Typical Chest Pain,Atypical,Nonanginal,St Depression,Tinversion,LVH,PRP,FBS,ESR,EF, RWMA,EX-Smoker,CR,BUN,CAD,Sex
+Dewasa,Fmale,Overweight,0,1,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,0,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Male,Overweight,0,1,1,Y,Y,Normal,N,0,N,N,1,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,Y,Tinggi_Parah,N,0,Y,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Obesitas Class I,0,0,0,Y,Y,Tinggi,N,0,N,Y,0,0,N,N,Prediabetes,Normal,MBN,1,0,Normal,Normal,Cad,Male
+Dewasa,Fmale,Normal,1,1,0,N,Y,Normal,N,0,N,Y,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Overweight,1,1,0,Y,Y,Tinggi,N,0,Y,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Obesitas Class II,0,0,0,Y,Y,Normal,N,1,N,N,1,0,N,N,diabetes,Abnormal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Male,Normal,1,1,0,N,Y,Normal,N,1,N,N,1,0,N,N,diabetes,Normal,MBN,3,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Normal,N,1,N,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Normal,N,0,N,N,1,0,N,N,Prediabetes,Normal,Normal,2,0,Normal,Normal,Cad,Male
+Dewasa,Fmale,Overweight,1,1,0,Y,Y,Normal,N,1,N,N,0,0,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Normal,0,0,0,N,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Overweight,0,1,0,Y,Y,Tinggi_Parah,N,1,N,N,1,1,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class II,1,0,0,Y,N,Normal,N,1,N,N,0,0,N,N,diabetes,Abnormal,MBN,2,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Normal,0,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,N,N,Normal,Abnormal,MBN,1,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class I,0,1,0,Y,N,Tinggi_Parah,N,0,N,Y,1,1,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Overweight,0,0,0,Y,N,Tinggi,N,0,Y,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Overweight,0,0,0,Y,N,Tinggi,N,0,Y,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Male,Overweight,0,1,0,Y,Y,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,0,N,N,Normal,N,1,N,N,1,0,N,N,Normal,Normal,MBN,4,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,1,1,N,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,Normal,1,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,1,Y,N,Tinggi_Parah,N,1,N,N,0,1,N,N,Normal,Abnormal,MBN,2,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,0,N,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,Y,Normal,Y,0,N,N,0,1,N,N,Normal,Abnormal,MBN,0,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,1,0,Y,Y,Normal,N,0,N,Y,1,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,1,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,1,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Normal,0,0,0,N,N,Tinggi,N,0,Y,N,1,1,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,0,0,0,Y,Y,Normal,N,0,N,N,1,1,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Normal,0,0,0,N,Y,Normal,N,1,N,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,1,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,N,Y,0,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Male,Overweight,0,1,1,Y,N,Tinggi,N,1,N,N,0,1,N,N,Prediabetes,Abnormal,MBN,1,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,1,0,N,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,1,0,Y,Y,Tinggi,N,1,N,N,0,1,N,N,Normal,Normal,MBN,1,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,1,0,0,Y,Y,Normal,N,1,N,N,0,0,N,N,diabetes,Normal,BN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,1,N,N,Normal,Abnormal,MBN,3,1,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,1,0,Y,N,Tinggi_Parah,N,0,N,N,0,0,Y,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,0,N,Y,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,Y,Tinggi,N,0,Y,N,1,0,N,N,diabetes,Abnormal,Normal,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Abnormal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Normal,1,1,0,N,N,Tinggi_Parah,N,1,N,N,1,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class II,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,Y,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Obesitas Class I,0,0,0,Y,Y,Tinggi,N,1,N,N,0,0,N,N,Prediabetes,Abnormal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,1,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,1,0,Y,Y,Tinggi_Parah,N,0,Y,N,1,1,Y,N,diabetes,Abnormal,BN,4,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,Y,Tinggi_Parah,N,0,Y,N,1,0,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class II,1,1,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Abnormal,MBN,0,0,Abnormal,Normal,Normal,Fmale
+Lanjut_Usia,Male,Normal,0,1,0,N,N,Tinggi,N,0,Y,N,0,1,N,N,Normal,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,1,N,N,0,1,N,N,Normal,Abnormal,MBN,4,1,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,1,Y,N,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Obesitas Class I,0,0,1,Y,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Normal,0,0,1,N,N,Normal,N,0,Y,N,1,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,1,N,N,Normal,N,1,N,N,0,1,N,N,Prediabetes,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Obesitas Class II,1,1,0,Y,N,Tinggi,N,0,Y,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Tinggi,N,1,N,N,1,1,N,N,Normal,Normal,BN,2,0,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,0,0,Y,Y,Tinggi,N,1,N,N,1,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Normal,0,0,1,N,N,Normal,N,1,N,N,0,1,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,1,0,0,N,N,Tinggi,N,0,Y,N,0,0,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Normal,1,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,N,N,0,0,Y,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Normal,1,1,0,N,N,Tinggi,N,1,N,N,1,1,N,N,Normal,Normal,MBN,1,0,Abnormal,Normal,Cad,Male
+Dewasa,Fmale,Obesitas Class I,0,1,0,Y,N,Tinggi,N,1,N,N,1,1,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class I,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,1,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Normal,0,0,0,N,N,Tinggi,N,1,N,N,1,1,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Normal,0,0,0,N,Y,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,0,0,Y,Y,Rendah,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,0,1,0,Y,Y,Normal,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Normal,0,1,0,N,Y,Tinggi_Parah,N,1,N,N,1,0,N,N,Normal,Normal,MBN,4,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,0,0,Y,N,Normal,N,0,Y,N,0,0,N,Y,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class I,0,1,0,Y,N,Tinggi,N,0,N,Y,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Overweight,0,0,0,Y,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,MBN,3,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Male,Normal,0,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,N,N,Normal,Abnormal,MBN,2,0,Abnormal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,0,1,N,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,0,1,N,N,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,BN,4,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,1,N,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,1,N,N,1,1,N,N,Prediabetes,Abnormal,MBN,3,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,Y,Normal,N,1,N,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,1,1,0,Y,Y,Tinggi,N,1,N,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,Y,Normal,N,0,Y,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,1,1,Y,Y,Tinggi,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,1,1,Y,N,Normal,N,1,N,N,1,1,N,N,Prediabetes,Abnormal,MBN,0,0,Abnormal,Normal,Cad,Male
+Lanjut_Usia,Fmale,Normal,0,0,0,N,N,Normal,N,1,N,N,1,0,N,N,Prediabetes,Abnormal,MBN,4,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,1,0,Y,Y,Normal,N,1,N,N,0,1,N,N,Normal,Abnormal,MBN,2,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,0,0,0,Y,Y,Tinggi,N,0,Y,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Obesitas Class II,1,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Abnormal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,Normal,Abnormal,Normal,2,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,1,0,Y,Y,Tinggi,N,1,N,N,0,1,N,N,diabetes,Normal,Normal,0,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,1,0,Y,Y,Normal,N,1,N,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Abnormal,Normal,Cad,Fmale
+Lanjut_Usia,Male,Overweight,0,1,1,Y,N,Tinggi_Parah,N,0,N,N,0,0,N,N,Normal,Normal,BN,4,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,1,0,N,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,1,N,Y,Tinggi,N,0,Y,N,0,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Tinggi,N,1,N,N,0,1,N,N,Normal,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,1,1,0,N,Y,Tinggi_Parah,N,1,N,N,0,0,N,Y,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,1,N,N,Tinggi,N,0,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Normal,0,0,0,N,N,Tinggi,N,1,N,N,0,1,N,N,Normal,Normal,MBN,1,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Obesitas Class I,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,N,N,0,1,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,N,N,Normal,Normal,BN,0,1,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,0,0,Y,N,Normal,N,1,N,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Normal,N,1,N,N,0,1,N,N,Normal,Normal,MBN,0,1,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,0,1,Y,N,Normal,N,1,N,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Normal,0,0,1,N,N,Normal,N,0,Y,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Normal,1,1,0,N,Y,Normal,N,0,Y,N,1,1,N,N,Prediabetes,Normal,MBN,1,0,Abnormal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,1,0,Y,N,Tinggi_Parah,N,0,N,Y,0,1,N,N,Normal,Normal,Normal,0,1,Abnormal,Normal,Normal,Male
+Dewasa,Fmale,Obesitas Class I,0,0,0,Y,N,Rendah,N,0,N,Y,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Overweight,1,1,0,Y,Y,Tinggi,N,1,N,N,0,0,N,Y,diabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,Y,Tinggi,Y,1,N,N,0,0,Y,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,0,0,Y,N,Tinggi,N,0,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Normal,0,0,0,N,Y,Tinggi,N,0,Y,N,1,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Obesitas Class I,0,0,0,Y,N,Tinggi,N,0,Y,N,1,1,N,N,Prediabetes,Normal,MBN,1,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Normal,1,0,1,N,N,Tinggi,N,0,N,N,0,1,N,N,diabetes,Normal,MBN,2,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class II,1,0,0,Y,Y,Normal,N,0,Y,N,0,0,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,0,1,1,Y,Y,Normal,N,1,N,N,1,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,0,0,Y,Y,Tinggi,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Overweight,0,0,0,Y,Y,Tinggi,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,0,1,0,Y,N,Tinggi_Parah,N,1,N,N,1,1,N,N,diabetes,Normal,MBN,0,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Male,Obesitas Class I,0,0,1,Y,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,MBN,2,0,Abnormal,Normal,Cad,Male
+Dewasa,Male,Overweight,1,1,0,Y,N,Tinggi,N,1,N,N,0,1,N,N,diabetes,Normal,BN,4,0,Abnormal,Normal,Cad,Male
+Dewasa,Male,Normal,0,1,1,N,N,Tinggi_Parah,N,1,N,N,0,1,N,N,Normal,Normal,MBN,1,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,1,1,N,N,Tinggi_Parah,N,1,N,N,1,1,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,0,0,N,Y,Normal,N,1,N,N,0,0,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Normal,0,0,0,N,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,MBN,1,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,0,0,N,N,Tinggi,N,1,N,N,1,0,N,N,Prediabetes,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Normal,N,0,N,Y,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Obesitas Class I,0,1,1,Y,N,Tinggi,N,1,N,N,1,1,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Normal,0,1,1,N,N,Tinggi_Parah,N,0,N,N,0,1,N,N,Normal,Abnormal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Tinggi,N,1,N,N,0,1,N,N,Normal,Normal,MBN,3,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,Y,Normal,N,0,Y,N,1,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Normal,0,1,0,N,N,Tinggi,N,0,N,Y,0,1,N,N,Normal,Normal,Normal,2,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Overweight,1,1,0,Y,N,Tinggi_Parah,N,1,N,N,1,1,N,N,diabetes,Normal,BN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,1,N,Y,Tinggi,N,0,Y,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Abnormal,Normal,Cad,Male
+Dewasa,Fmale,Overweight,0,1,1,Y,N,Normal,N,1,N,N,0,1,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Normal,0,0,0,N,Y,Normal,N,0,Y,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Obesitas Class I,1,1,0,Y,N,Normal,N,1,N,N,1,0,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class I,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,1,1,N,N,diabetes,Abnormal,MBN,2,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class II,0,1,0,Y,N,Normal,N,0,N,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,0,1,0,Y,Y,Tinggi_Parah,N,0,Y,N,0,1,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class II,0,1,0,Y,N,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Normal,1,1,0,N,Y,Tinggi_Parah,N,0,Y,N,0,0,Y,N,diabetes,Abnormal,Normal,0,0,Abnormal,Normal,Cad,Fmale
+Lanjut_Usia,Male,Normal,0,0,0,N,N,Normal,N,1,N,N,0,1,N,N,Normal,Normal,BN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,1,0,0,N,N,Tinggi,N,1,N,N,0,0,N,N,diabetes,Abnormal,MBN,2,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi,N,0,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Normal,N,1,N,N,0,1,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,1,1,0,Y,Y,Tinggi,N,1,N,N,0,0,N,N,diabetes,Abnormal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Abnormal,Normal,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,1,N,N,Normal,Abnormal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,1,0,0,N,N,Tinggi,N,1,N,N,0,0,N,N,diabetes,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,1,N,N,0,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,N,N,Prediabetes,Abnormal,MBN,0,0,Abnormal,Normal,Cad,Male
+Dewasa,Male,Overweight,1,1,0,Y,Y,Normal,N,1,N,N,0,0,N,N,diabetes,Normal,BN,4,0,Abnormal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,1,0,N,N,Normal,Normal,BN,4,0,Abnormal,Normal,Cad,Male
+Lanjut_Usia,Fmale,Normal,1,0,0,N,Y,Normal,N,0,N,N,0,0,N,Y,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,1,1,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,0,0,Y,N,Tinggi,N,1,N,N,1,0,N,N,diabetes,Abnormal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,Y,Tinggi_Parah,N,0,Y,N,0,0,N,N,diabetes,Abnormal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,Normal,1,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,Y,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Male,Normal,1,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,N,Y,diabetes,Abnormal,BN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,0,N,N,Normal,N,0,N,Y,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Obesitas Class I,0,0,1,Y,N,Tinggi,N,1,N,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,1,N,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,Y,N,Prediabetes,Normal,MBN,1,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,1,0,N,N,Normal,N,1,N,N,1,0,N,N,Normal,Abnormal,MBN,1,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Normal,0,0,0,N,N,Tinggi,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Normal,0,0,0,N,Y,Normal,N,0,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Overweight,0,1,1,Y,N,Tinggi_Parah,N,1,N,N,0,1,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,0,1,Y,N,Normal,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Normal,0,1,1,N,N,Tinggi,N,0,Y,N,1,1,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi,N,0,Y,N,1,1,N,N,Prediabetes,Normal,MBN,1,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,1,1,0,Y,Y,Tinggi_Parah,N,0,N,N,0,0,Y,N,diabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,Y,Tinggi_Parah,N,1,N,N,1,1,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Obesitas Class I,0,0,0,Y,N,Tinggi,N,1,N,N,0,0,N,N,Prediabetes,Normal,BN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,0,1,Y,N,Normal,N,1,N,N,0,0,N,N,Prediabetes,Abnormal,MBN,1,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,1,0,N,Y,Tinggi_Parah,N,1,N,N,1,1,N,N,Normal,Normal,MBN,3,0,Abnormal,Normal,Cad,Male
+Dewasa,Fmale,Overweight,1,1,0,Y,N,Tinggi,N,1,N,N,0,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class I,1,1,0,Y,N,Tinggi,N,1,N,N,1,1,N,N,Normal,Normal,MBN,3,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Normal,1,0,0,N,N,Tinggi,N,1,N,N,0,1,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class I,0,1,0,Y,Y,Tinggi,N,1,N,N,1,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class II,0,0,0,Y,Y,Normal,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,1,0,N,N,diabetes,Normal,MBN,1,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Normal,0,0,0,N,N,Normal,N,0,Y,N,1,0,N,N,Normal,Abnormal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,N,Tinggi,N,1,N,N,1,1,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,0,0,Y,Y,Normal,N,0,Y,N,1,1,N,N,Normal,Abnormal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,Y,Tinggi_Parah,Y,1,N,N,0,0,Y,N,Normal,Normal,MBN,0,0,Abnormal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Normal,1,1,0,Y,Y,Tinggi_Parah,N,0,Y,N,0,0,N,N,diabetes,Normal,Normal,0,0,Abnormal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,Y,Tinggi_Parah,N,1,N,N,1,1,N,N,Normal,Abnormal,MBN,3,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,1,0,Y,Y,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Male,Overweight,0,0,1,Y,N,Normal,N,0,Y,N,0,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Normal,N,1,N,N,1,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,MBN,0,1,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Obesitas Class I,1,1,0,Y,Y,Tinggi,N,1,N,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,1,N,N,Normal,Normal,Normal,0,0,Abnormal,Normal,Cad,Male
+Dewasa,Fmale,Overweight,0,0,0,Y,Y,Normal,N,0,Y,N,1,0,N,N,Normal,Normal,MBN,1,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Obesitas Class I,0,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,0,Y,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,0,0,Y,Y,Normal,N,0,Y,N,0,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Obesitas Class II,1,1,0,Y,Y,Normal,N,1,N,N,1,1,N,N,diabetes,Normal,MBN,0,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,0,N,N,Prediabetes,Normal,MBN,0,1,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,1,0,1,Y,Y,Tinggi,N,1,N,N,1,1,N,N,diabetes,Normal,MBN,4,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Normal,N,1,N,N,0,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,1,1,0,N,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,0,N,N,Normal,N,0,Y,N,0,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Obesitas Class I,1,1,0,Y,Y,Tinggi,N,0,N,N,0,0,Y,N,Prediabetes,Normal,MBN,1,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,1,1,0,N,N,Tinggi_Parah,N,1,N,N,0,1,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,0,0,Y,N,Normal,N,1,N,N,0,1,N,N,Normal,Normal,MBN,3,0,Normal,Normal,Cad,Male
+Dewasa,Fmale,Obesitas Class I,1,0,0,Y,N,Normal,N,1,N,N,1,0,N,N,diabetes,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,Y,Tinggi_Parah,N,0,Y,N,0,1,N,N,diabetes,Normal,Normal,2,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Normal,0,1,0,N,N,Tinggi_Parah,N,1,N,N,0,1,N,N,Normal,Abnormal,MBN,1,0,Abnormal,Normal,Cad,Fmale
+Lanjut_Usia,Male,Normal,1,0,1,N,Y,Normal,N,0,Y,N,1,1,N,N,Prediabetes,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,0,0,N,N,Normal,N,1,N,N,0,0,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Obesitas Class I,0,0,1,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,1,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,1,N,N,0,1,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,1,1,0,N,Y,Tinggi,Y,1,N,N,0,0,N,N,diabetes,Abnormal,Normal,1,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,1,1,1,Y,N,Tinggi_Parah,N,1,N,N,0,1,N,Y,diabetes,Abnormal,BN,3,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Obesitas Class I,0,1,1,Y,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Fmale,Obesitas Class I,0,1,0,Y,Y,Tinggi_Parah,N,0,Y,N,0,0,Y,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class I,0,1,0,Y,N,Tinggi,N,0,N,N,0,0,N,N,diabetes,Normal,BN,2,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,0,1,1,Y,N,Tinggi_Parah,N,0,Y,N,1,0,N,N,Normal,Normal,MBN,2,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Overweight,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,Y,diabetes,Abnormal,MBN,0,0,Abnormal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Normal,1,1,0,N,N,Normal,N,0,N,Y,0,0,N,N,diabetes,Abnormal,Normal,0,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Male,Overweight,0,0,1,Y,N,Rendah,N,1,N,N,0,1,N,N,diabetes,Normal,BN,3,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,0,Y,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,1,Y,Y,Tinggi_Parah,N,0,Y,N,0,0,N,N,Prediabetes,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Obesitas Class I,0,1,0,Y,Y,Tinggi_Parah,Y,1,N,N,0,0,Y,N,Prediabetes,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Fmale,Normal,0,1,0,N,Y,Tinggi_Parah,N,0,N,Y,0,0,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Normal,Fmale
+Dewasa,Fmale,Overweight,1,0,0,Y,N,Normal,N,1,N,N,0,0,N,N,diabetes,Abnormal,Normal,1,0,Normal,Normal,Cad,Fmale
+Dewasa,Fmale,Normal,0,1,0,N,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,Y,Normal,N,0,Y,N,0,0,N,N,Prediabetes,Normal,MBN,1,0,Abnormal,Normal,Cad,Fmale
+Dewasa,Male,Normal,1,1,0,N,Y,Tinggi,N,1,N,N,1,0,N,N,diabetes,Normal,Normal,2,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,1,1,0,N,N,Tinggi_Parah,N,0,N,N,0,0,N,N,diabetes,Abnormal,MBN,1,0,Normal,Normal,Cad,Male
+Dewasa,Male,Normal,0,0,0,N,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,1,1,Y,N,Tinggi_Parah,N,1,N,N,0,0,Y,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,1,Y,N,Tinggi,N,1,N,N,0,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Normal,0,0,0,N,Y,Normal,N,0,N,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Male
+Lanjut_Usia,Male,Normal,0,1,1,N,N,Tinggi_Parah,N,1,N,N,0,0,N,N,Normal,Abnormal,MBN,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Obesitas Class I,0,0,0,Y,N,Normal,N,0,Y,N,1,1,N,N,Normal,Normal,BN,0,0,Abnormal,Normal,Normal,Male
+Dewasa,Male,Overweight,0,0,1,Y,N,Normal,N,0,Y,N,0,0,N,N,diabetes,Normal,Normal,0,0,Abnormal,Normal,Normal,Male
+Dewasa,Fmale,Overweight,0,0,0,Y,N,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,MBN,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,0,0,0,Y,Y,Normal,N,0,Y,N,0,0,N,N,Normal,Abnormal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Normal,0,0,0,N,Y,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Normal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,1,0,Y,N,Tinggi_Parah,N,0,N,N,0,0,N,N,Normal,Normal,MBN,1,0,Abnormal,Normal,Cad,Fmale
+Lanjut_Usia,Male,Normal,1,0,0,N,Y,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,2,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,1,N,N,Normal,Normal,MBN,0,0,Abnormal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,N,N,0,0,N,N,Normal,Abnormal,MBN,2,0,Abnormal,Normal,Cad,Male
+Dewasa,Fmale,Obesitas Class I,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,MBN,2,0,Normal,Normal,Cad,Fmale
+Lanjut_Usia,Fmale,Normal,0,1,0,N,Y,Tinggi_Parah,N,1,N,N,0,0,Y,N,Prediabetes,Abnormal,Normal,0,0,Abnormal,Normal,Cad,Fmale
+Lanjut_Usia,Male,Overweight,1,0,0,Y,N,Tinggi,N,1,N,N,0,0,N,Y,Prediabetes,Normal,MBN,0,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Normal,0,1,1,N,N,Tinggi_Parah,N,0,Y,N,0,1,N,N,Normal,Normal,MBN,2,0,Normal,Normal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,Y,N,Prediabetes,Abnormal,MBN,2,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,diabetes,Normal,Normal,0,0,Normal,Normal,Normal,Male
+Dewasa,Male,Overweight,1,0,0,Y,Y,Rendah,N,1,N,N,1,0,N,N,diabetes,Abnormal,Normal,0,0,Normal,Normal,Cad,Male
+Dewasa,Male,Overweight,1,1,0,Y,Y,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,Normal,2,0,Abnormal,Normal,Cad,Male
+Dewasa,Fmale,Obesitas Class II,0,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,diabetes,Normal,Normal,0,0,Normal,Abnormal,Normal,Fmale
+Lanjut_Usia,Male,Normal,0,0,0,N,N,Tinggi,N,0,N,N,1,0,N,N,Normal,Normal,MBN,0,1,Normal,Abnormal,Normal,Male
+Lanjut_Usia,Male,Normal,1,0,0,N,Y,Normal,N,0,N,N,1,0,N,N,diabetes,Normal,MBN,4,0,Normal,Abnormal,Cad,Male
+Dewasa,Male,Obesitas Class I,1,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,MBN,0,0,Normal,Abnormal,Cad,Male
+Dewasa,Fmale,Obesitas Class II,1,1,0,Y,N,Normal,N,0,N,N,0,0,N,N,diabetes,Abnormal,MBN,2,0,Normal,Abnormal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,1,0,0,Y,Y,Normal,N,1,N,N,0,0,N,N,diabetes,Abnormal,BN,0,0,Abnormal,Abnormal,Cad,Fmale
+Dewasa,Male,Overweight,0,0,0,Y,N,Tinggi,N,0,N,Y,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Abnormal,Normal,Male
+Dewasa,Male,Overweight,0,0,0,Y,Y,Normal,N,0,N,N,0,0,N,N,Normal,Normal,BN,4,0,Abnormal,Abnormal,Cad,Male
+Lanjut_Usia,Male,Normal,0,1,0,N,N,Tinggi_Parah,N,1,N,N,0,0,Y,N,Normal,Normal,MBN,0,0,Normal,Abnormal,Cad,Male
+Lanjut_Usia,Male,Normal,0,0,1,N,N,Normal,N,0,Y,N,1,1,N,N,Normal,Normal,MBN,0,0,Normal,Abnormal,Cad,Male
+Lanjut_Usia,Male,Overweight,1,1,0,Y,Y,Tinggi,N,0,Y,N,0,1,N,N,diabetes,Normal,MBN,0,0,Abnormal,Abnormal,Cad,Male
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,N,Tinggi_Parah,N,1,N,N,1,1,N,N,Normal,Normal,MBN,4,0,Normal,Abnormal,Cad,Fmale
+Lanjut_Usia,Fmale,Overweight,0,1,0,Y,N,Normal,N,0,N,Y,1,0,N,N,Normal,Abnormal,Normal,0,0,Abnormal,Abnormal,Normal,Fmale
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Normal,MBN,0,0,Abnormal,Abnormal,Cad,Fmale
+Dewasa,Male,Overweight,1,1,0,Y,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,Normal,Normal,BN,0,0,Normal,Abnormal,Normal,Male
+Lanjut_Usia,Male,Normal,0,0,0,N,N,Normal,N,0,N,N,0,0,N,N,Prediabetes,Normal,BN,0,0,Normal,Abnormal,Normal,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,MBN,3,0,Abnormal,Abnormal,Cad,Male
+Lanjut_Usia,Fmale,Obesitas Class I,0,1,0,Y,N,Normal,N,1,N,N,1,0,N,N,Prediabetes,Normal,Normal,0,0,Normal,Abnormal,Cad,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Abnormal,MBN,0,0,Abnormal,Abnormal,Cad,Fmale
+Dewasa,Fmale,Obesitas Class II,0,1,0,Y,N,Tinggi_Parah,N,0,N,N,0,0,Y,N,Prediabetes,Abnormal,MBN,0,0,Abnormal,Abnormal,Cad,Fmale
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Tinggi,N,1,N,N,0,0,N,N,Normal,Normal,Normal,0,0,Abnormal,Abnormal,Cad,Male
+Lanjut_Usia,Fmale,Normal,0,1,0,N,Y,Tinggi,N,1,N,N,1,1,N,N,Normal,Abnormal,Normal,0,0,Abnormal,Abnormal,Cad,Fmale
+Lanjut_Usia,Male,Normal,0,1,0,N,N,Tinggi,N,1,N,N,1,1,N,N,Normal,Normal,MBN,2,0,Abnormal,Abnormal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,N,Normal,N,0,Y,N,1,1,N,N,Prediabetes,Normal,Normal,0,1,Abnormal,Abnormal,Cad,Male
+Dewasa,Fmale,Obesitas Class I,0,1,0,Y,Y,Normal,N,0,Y,N,0,0,N,N,Normal,Normal,Normal,0,0,Normal,Abnormal,Normal,Fmale
+Lanjut_Usia,Fmale,Obesitas Class I,1,1,1,Y,Y,Tinggi_Parah,N,1,N,N,1,1,N,N,diabetes,Normal,MBN,0,0,Abnormal,Abnormal,Cad,Fmale
+Lanjut_Usia,Male,Overweight,1,1,0,Y,N,Tinggi_Parah,N,1,N,N,0,1,N,N,diabetes,Normal,MBN,3,0,Abnormal,Abnormal,Cad,Male
+Dewasa,Fmale,Overweight,1,1,0,Y,Y,Tinggi_Parah,N,1,N,N,0,0,N,N,diabetes,Abnormal,MBN,3,0,Normal,Abnormal,Cad,Fmale
+Lanjut_Usia,Male,Normal,0,1,0,N,N,Tinggi_Parah,N,0,Y,N,0,0,N,N,Normal,Abnormal,BN,0,0,Abnormal,Abnormal,Cad,Male
+Lanjut_Usia,Male,Overweight,0,1,0,Y,Y,Normal,N,1,N,N,0,0,Y,N,Prediabetes,Abnormal,Normal,0,1,Abnormal,Abnormal,Cad,Male
+Dewasa,Fmale,Overweight,0,0,0,Y,Y,Normal,N,0,Y,N,0,1,N,N,diabetes,Normal,MBN,0,0,Abnormal,Abnormal,Normal,Fmale
+Lanjut_Usia,Male,Normal,1,1,0,N,Y,Tinggi_Parah,N,0,Y,N,0,0,N,N,diabetes,Normal,MBN,0,0,Abnormal,Abnormal,Cad,Male
+Lanjut_Usia,Fmale,Overweight,1,1,0,Y,N,Tinggi,N,1,N,N,0,0,N,Y,diabetes,Abnormal,Normal,0,0,Abnormal,Abnormal,Cad,Fmale
+Lanjut_Usia,Male,Normal,1,1,1,N,N,Tinggi,N,0,N,N,1,1,N,N,diabetes,Abnormal,MBN,0,0,Abnormal,Abnormal,Cad,Male
